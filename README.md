@@ -1,2 +1,2 @@
 # beginnings
-These are my first programs, don't expect much
+These are some of my first ever projects, these will be beginner level
