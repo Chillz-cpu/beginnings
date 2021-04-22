@@ -127,7 +127,7 @@ while True:
     # End game
     if (score_a > 4):
         pen.clear()
-        pen.write("Player A has won! Score limit reached.")
+        pen.write("Player A has won! Score limit reached.", align="center", font=("Courier", 24, "normal"))
         ball.clear()
         paddle_a.clear()
         paddle_b.clean()
